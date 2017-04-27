@@ -5,6 +5,7 @@ import android.util.Log;
 
 import com.delta.ameslibs.TTSManager;
 import com.delta.commonlibs.ApplicationAsLibrary;
+import com.github.mzule.activityrouter.annotation.Module;
 
 /**
  * @description :
@@ -12,7 +13,7 @@ import com.delta.commonlibs.ApplicationAsLibrary;
  * @date : 2017/4/24 16:16
  */
 
-
+@Module("fault")
 public class FaultApplicaiton extends Application implements ApplicationAsLibrary {
     private static final String TAG = "FaultApplicaiton";
 

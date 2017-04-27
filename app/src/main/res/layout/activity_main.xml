@@ -27,38 +27,6 @@
 
     <TextView
         style="@style/Menu"
-        android:text="router://user/mzule"/>
-
-    <TextView
-        style="@style/Menu"
-        android:text="router://user/collection"/>
-
-    <TextView
-        style="@style/Menu"
-        android:text="router://user/collection?id=911"/>
-
-    <TextView
-        style="@style/Menu"
-        android:text="router://user/nickname/city/shanghai/gender/1/age/98"/>
-
-    <TextView
-        style="@style/Menu"
-        android:text="router://user/nickname/city/shanghai/gender/1/age/98?age=89&amp;gender=3&amp;nickname=fans"/>
-
-    <TextView
-        style="@style/Menu"
-        android:text="router://user/jack/noting"/>
-
-    <TextView
-        style="@style/Menu"
-        android:text="router://module"/>
-
-    <TextView
-        style="@style/Menu"
-        android:text="mzule://www.mzule.com/with_host"/>
-
-    <TextView
-        style="@style/Menu"
         android:text="router://logout"/>
 
     <TextView
